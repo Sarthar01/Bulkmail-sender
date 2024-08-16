@@ -75,6 +75,6 @@ This project is an email sender application built with Next.js. It uses various 
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-##Contact
+## Contact
 
 mail:asiksmk1@gmail.com
